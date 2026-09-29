@@ -2,22 +2,21 @@
 
 ### Salesforce Developer | Apex | LWC | Integrations
 
-Salesforce Developer with 4+ years of experience building scalable
-Salesforce solutions using Apex, LWC, Flows, REST APIs, and integrations.
+Salesforce Developer with 4+ years of experience in Apex, LWC,
+Flows, REST APIs, and Salesforce integrations.
 
-### ⚡ Salesforce
-Apex • LWC • SOQL • Flows • REST APIs • Lightning Data Service
-
-### 🛠️ Tools
-Git • GitHub • VS Code • Salesforce CLI • Gearset
+### ⚡ Skills
+Apex • LWC • SOQL • Flows • REST APIs • Async Apex • LDS
 
 ### 📚 Salesforce Recipes
-Hands-on Salesforce development examples covering Apex, LWC,
-Integrations, Async Apex, and Salesforce platform concepts.
+A collection of hands-on Salesforce development examples.
 
 🔗 [Salesforce Recipes](https://github.com/TusharBarthunia/Salesforce-Recipes)
 
+### 📄 Resume
+🔗 [View My Resume](https://drive.google.com/file/d/1evxkXiergYlxItHsH3zX1VAj2moss1EM/view?usp=sharing)
+
 ### 🏆 Certifications
-Salesforce Platform Developer I • JavaScript Developer I • Administrator • Associate
+Salesforce Certified Platform Developer I • JavaScript Developer I • Administrator • Associate
 
 📫 [LinkedIn](https://www.linkedin.com/in/tushar-barthunia/)
