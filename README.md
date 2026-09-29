@@ -6,7 +6,7 @@ Salesforce Developer with 4+ years of experience in Apex, LWC,
 Flows, REST APIs, and Salesforce integrations.
 
 ### ⚡ Skills
-Apex • LWC • SOQL • Flows • REST APIs • Async Apex • LDS
+Apex • LWC • SOQL • Flows • REST APIs • Async Apex • JavaScript
 
 ### 📚 Salesforce Recipes
 A collection of hands-on Salesforce development examples.
